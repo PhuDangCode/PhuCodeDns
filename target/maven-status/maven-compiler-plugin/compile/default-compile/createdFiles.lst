@@ -1,0 +1,4 @@
+com\mycompany\dns\DNSRecord.class
+com\mycompany\dns\SecondaryDNSServer.class
+com\mycompany\dns\DNSClient.class
+com\mycompany\dns\PrimaryDNSServer.class
